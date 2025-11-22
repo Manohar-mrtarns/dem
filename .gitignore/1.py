@@ -26,3 +26,26 @@
 # hasattrh
 
 # h
+
+FileNotFoundErrorf
+finallyf
+finallyff
+finallyf
+finallyf
+finallyf
+finallyff
+finallyf
+finallyf
+finallyff
+finallyf
+finallyf
+FileNotFoundErrorf
+finallyf
+finallyf
+FileNotFoundErrorf
+finallyff
+finallyf
+finallyf
+finallyf
+FileNotFoundErrorf
+FileNotFoundErrorff
